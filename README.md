@@ -47,7 +47,11 @@ S-P-500-Stock-Market-Analysis/
 
 ## 🏆 Results & Dashboard
 
-Include screenshots or a link to your Power BI dashboard here.
+- Home Page :
+[!image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Home.jpg)
+
+- Analysis Page
+[!image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg)
 
 ---
 
