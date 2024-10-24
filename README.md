@@ -28,13 +28,11 @@ The project involves:
 
 
 S-P-500-Stock-Market-Analysis/
-│
-├── data/                      # Raw and cleaned datasets
-├── notebooks/                 # Jupyter notebooks for data analysis
-├── scripts/                   # Python scripts for web scraping & preprocessing
-├── dashboards/                # Power BI dashboard files (.pbix)
-├── Output Data Structure.xlsx # Final outputs
-├── README.md                  # Project documentation
+
+- ├── data/                      # Raw and cleaned datasets
+- ├── Scrap-Analysis-Data.py     # Python scripts for data analysis & web scraping & preprocessing
+- ├── Dashboard-cap/             # Power BI dashboard Cap (.png)
+- ├── README.md                  # Project documentation
 
 ---
 
