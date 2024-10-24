@@ -26,7 +26,7 @@ The project involves:
 
 ## 📂 Folder Structure
 
-```bash
+
 S-P-500-Stock-Market-Analysis/
 │
 ├── data/                      # Raw and cleaned datasets
@@ -38,8 +38,28 @@ S-P-500-Stock-Market-Analysis/
 
 ---
 
+
 ## 🏆 Results & Dashboard
 
 Include screenshots or a link to your Power BI dashboard here.
 
 ---
+
+## 💡 Future Improvements
+- Automate the data scraping process using scheduled scripts.
+- Include fundamental analysis by scraping financial metrics (PE ratio, EPS, etc.).
+- Expand analysis to other indices, such as NASDAQ-100 or Dow Jones.
+
+---
+
+## 🤝 Contributing
+
+- Contributions are welcome!
+- Feel free to open issues or submit pull requests if you'd like to collaborate.
+
+---
+
+##👤 Author
+
+- Youssef Kammoun
+- LinkedIn | Email
