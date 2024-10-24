@@ -38,6 +38,12 @@ S-P-500-Stock-Market-Analysis/
 
 ---
 
+## 📈 Key Insights
+- Market Trends: Identify sectors driving market growth.
+- Stock Volatility: Measure historical volatility across different time periods.
+- Performance Comparison: Compare individual stocks with the overall S&P 500 index.
+
+---
 
 ## 🏆 Results & Dashboard
 
