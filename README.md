@@ -29,7 +29,7 @@ The project involves:
 
 S-P-500-Stock-Market-Analysis/
 
-- ├── data/                      # Raw and cleaned datasets
+- ├── Image/                     # Images used in dashboard(.png)
 - ├── Scrap-Analysis-Data.py     # Python scripts for data analysis & web scraping & preprocessing
 - ├── Dashboard-cap/             # Power BI dashboard Cap (.png)
 - ├── README.md                  # Project documentation
