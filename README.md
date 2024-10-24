@@ -59,7 +59,7 @@ Include screenshots or a link to your Power BI dashboard here.
 
 ---
 
-##👤 Author
+## 👤 Author
 
 - Youssef Kammoun
 - LinkedIn | Email
