@@ -35,3 +35,11 @@ S-P-500-Stock-Market-Analysis/
 ├── dashboards/                # Power BI dashboard files (.pbix)
 ├── Output Data Structure.xlsx # Final outputs
 ├── README.md                  # Project documentation
+
+---
+
+## 🏆 Results & Dashboard
+
+Include screenshots or a link to your Power BI dashboard here.
+
+---
