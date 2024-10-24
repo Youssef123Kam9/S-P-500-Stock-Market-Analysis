@@ -47,11 +47,11 @@ S-P-500-Stock-Market-Analysis/
 
 ## 🏆 Results & Dashboard
 
-- Home Page :
+# Home Page :
   
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Home.jpg)
 
-- Analysis Page
+# Analysis Page
 
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg)
 
